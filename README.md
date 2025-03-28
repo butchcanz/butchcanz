@@ -1,5 +1,5 @@
 ## 💫 About Me:
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/butchcanz?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/butchcanz?style=social"> &nbsp;&nbsp; <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=butchcanz&label=Profile%20Views&color=green&style=flat" />
 
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> Hi, I'm Butch
 I am a Software Developer and Backend Developer. My work spans AI and web development, allowing me to build scalable systems that drive innovation and help businesses thrive in a rapidly evolving digital world.
