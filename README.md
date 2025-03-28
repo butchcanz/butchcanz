@@ -28,7 +28,7 @@ I’m always open to connecting with others who are passionate about technology 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=butchcanz&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-## 🤝🏻 For more information, please onnect me via:
+## 🤝🏻 For more information, please connect me via:
 <p>
   <a href="mailto:butch.canada1994@gmail.com" >
     <img align="center" alt="Butch Cañada | Gmail" width="35px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
