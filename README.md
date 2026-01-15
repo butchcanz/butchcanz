@@ -2,13 +2,11 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/butchcanz?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/butchcanz?style=social"> &nbsp;&nbsp; <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=butchcanz&label=Profile%20Views&color=green&style=flat" />
 
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> Hi, I'm Butch
-I am a Software Developer and Backend Developer. My work spans AI and web development, allowing me to build scalable systems that drive innovation and help businesses thrive in a rapidly evolving digital world.
+I am a software engineer with extensive experience in backend development, frontend development, mobile application development, AI solutions, and modern web technologies. I design and build scalable, secure systems that enhance user experiences and support sustainable business growth.
 
-In AI, I work with large language models (LLMs) to build chatbots, agents, and custom applications that improve user interactions. I have used techniques like Retrieval-Augmented Generation (RAG) for better responses and integrated OpenAI models for tasks like text generation, translation, and summarization. I have also explored live conversation features using OpenAI’s Realtime API to enhance user experiences.
+My AI experience includes developing and integrating large language models such as OpenAI and Meta LLaMA. I have strong server-side development expertise, including REST API design, authentication and authorization, and NoSQL database management, with a consistent focus on performance, security, and scalability.
 
-In web development, I am a Backend Developer specializing in managing server-side logic, databases, and APIs. My work involves building and optimizing servers, implementing authentication and security, managing SQL and NoSQL databases, developing RESTful APIs, and integrating third-party services. I also focus on ensuring scalability and optimizing performance for efficient and reliable systems.
-
-I’m always open to connecting with others who are passionate about technology and innovation. Let’s collaborate to build impactful solutions that shape the future.
+In addition, I bring solid frontend development experience, building SME web applications with clean, intuitive, and user-friendly interfaces. I also have hands-on experience in mobile development, particularly in designing and decentralizing mobile wallet and Web3 applications. This includes implementing secure mobile wallets with biometric authentication, facial recognition, PIN-based access, and reliable transaction processing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/butch-ca%C3%B1ada-b87b15117/) [![Upwork](https://img.shields.io/badge/Upwork-%2330C77B.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bc446f0cce8cff1e)
